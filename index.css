@@ -124,7 +124,7 @@ body {
 
 /* Reduced scale so it doesn't break the layout */
 .product-card img:hover {
-    transform: scale(5); 
+    transform: scale(1.5); 
 }
 
 .product-card h3 {
@@ -179,4 +179,5 @@ footer {
         gap: 10px;
     }
 }
+
 
